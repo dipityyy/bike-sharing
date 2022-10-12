@@ -58,6 +58,7 @@ Final Data Analysis.
 
 You must use at least two visualizations that you created in this module.
 <img width="1440" alt="Screen Shot 2022-10-11 at 10 41 41 PM" src="https://user-images.githubusercontent.com/106028585/195237145-15749e61-26da-4905-8f5e-6c76df1f828f.png">
+CitiBike Analysis tells that more than 80% are Subscribers, with an ~19% or regular non-subscribers, that data creates a new need, such better user experiance interaction in the future.
 
 <img width="1440" alt="Screen Shot 2022-10-11 at 10 43 03 PM" src="https://user-images.githubusercontent.com/106028585/195237317-4230a503-4795-459b-aff4-9ca0b5cf3898.png">
 
